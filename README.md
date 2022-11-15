@@ -41,6 +41,6 @@
 
 1. Run the command `-run flask` to get the url of your mint nft
 2. Go to the url link. The following output should be displayed:
-   ![image](Output.png)
+   ![image](https://github.com/Shreyav2000/CS_5900_03_HW_4_MINT_NFT/blob/1591bee0368ee70d290fc603f02bcfb62a908ad3/Downloads/19_MINTNFT-master/Output.png)
 3. Enter the username and Email and click on connect to MetaMask
 4. It will then direct you to the MetaMask page
